@@ -1,0 +1,9 @@
+# Ignore VS Code files
+.vscode/
+*.code-workspace
+
+# Ignore t.jpg file
+t.jpg
+
+# Ignore .venv directory
+.venv/
